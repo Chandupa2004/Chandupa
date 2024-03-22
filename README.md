@@ -9,7 +9,7 @@
 
 <p>
     <img align="right" width="350" src="code.gif" alt="Coding gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupa2004&label=Profile%20views&color=0e75b6&style=flat" alt="chandupa2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupa2004&label=Profile%20views&color=0e75b6&style=flat" alt="chandupa2004"/> </p>
 
 - 🌱 I’m currently learning **Java, Python, C#, HTML,XML**
 
