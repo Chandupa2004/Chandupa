@@ -5,7 +5,7 @@
     </a>
 </div>
 <img src="Banner.png" alt="Codbanner gif" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandaru Chandupa</h1>
+
 <h3 align="center">👋 Hello there! I'm Chandupa, a Software Engineering undergraduate student at the University of Westminster. 🎓 Currently, I'm pursuing my degree in Software Engineering, diving deep into the world of algorithms, data structures, and software design principles. 🖥️ Outside of my academic pursuits, I have a passion for photo editing using Adobe Photoshop. 📸 This hobby allows me to express my creativity and attention to detail, transforming ordinary images into captivating works of art. 🔍 I'm actively seeking an internship opportunity to further develop my skills and gain real-world experience in the field of software engineering. 💼 If you know of any exciting internship opportunities 🚀 As I continue to grow both academically and creatively, I'm excited to explore new technologies, contribute to open-source projects, and collaborate with like-minded individuals to make a positive impact in the world of software engineering. Happy coding, editing, and networking! 💻🎨🤝</h3>
 
 <p>
