@@ -1,14 +1,14 @@
-<img src="/Banner.png" alt="banner">
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 <div style="text-align:center;">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+To+My+GitHub+Profile+👋" alt="Typing SVG" style="width:100%; max-width:600px;">
     </a>
 </div>
-<h1 align="center">Hi 👋, I'm Sandaru Chandupa</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandaru Chandupa</h1>
 <h3 align="center">👋 Hello there! I'm Chandupa, a Software Engineering undergraduate student at the University of Westminster. 🎓 Currently, I'm pursuing my degree in Software Engineering, diving deep into the world of algorithms, data structures, and software design principles. 🖥️ Outside of my academic pursuits, I have a passion for photo editing using Adobe Photoshop. 📸 This hobby allows me to express my creativity and attention to detail, transforming ordinary images into captivating works of art. 🔍 I'm actively seeking an internship opportunity to further develop my skills and gain real-world experience in the field of software engineering. 💼 If you know of any exciting internship opportunities or would like to connect, feel free to reach out to me on [LinkedIn](Your LinkedIn Profile URL)! 🚀 As I continue to grow both academically and creatively, I'm excited to explore new technologies, contribute to open-source projects, and collaborate with like-minded individuals to make a positive impact in the world of software engineering. Happy coding, editing, and networking! 💻🎨🤝</h3>
 
+<p>
+    <img align="right" width="350" src="code.gif" alt="Coding gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupa2004&label=Profile%20views&color=0e75b6&style=flat" alt="chandupa2004" /> </p>
 
 - 🌱 I’m currently learning **Java, Python, C#, HTML,XML**
